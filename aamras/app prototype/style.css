@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+img{
+    height: 600px;
+    margin-left: 30%;
+    margin-top: 1%;
+}
+
+.bn{
+    height: 100px;
+    width: 240px;
+    position: absolute;
+    left: 520px;
+}
+.b1{
+background-color: rgba(255, 0, 0, 0);
+top: 120px;
+}
+.b2{
+    background-color: rgba(50, 59, 139, 0);
+    top: 235px;
+    }
+.b3{
+background-color: rgba(0, 255, 76, 0);
+top: 350px;
+}
